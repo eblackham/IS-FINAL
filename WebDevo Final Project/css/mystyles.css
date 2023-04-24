@@ -1,0 +1,78 @@
+.common{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: grey;
+
+}
+
+.header{
+    height: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    background-color: rgb(255, 233, 233);
+    color: rgb(255, 181, 151);
+    line-height: 100px;
+}
+
+.mainbody{
+background-color: rgb(249, 249, 249);
+font-family: Georgia, 'Times New Roman', Times, serif;
+list-style-position: inside;
+
+}
+
+.body{
+    border: 5px solid black;
+    margin: 5px;
+}
+
+.footer{
+    background-color: white;
+   color: white;
+   height: 25px;
+}
+
+nav{
+    background-color: white;
+    
+    padding: 6px;
+    overflow: hidden; 
+
+}
+
+nav a{
+    float: center;
+    color: rgb(255, 181, 151);
+    padding: 15px 30px;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+
+
+}
+
+nav a:hover{
+    background-color: ghostwhite;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.GoTop{
+    text-align: center;
+}
+
+
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
